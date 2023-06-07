@@ -1,0 +1,4 @@
+urls.txt
+/data/resized_train_cropped/**
+/data/resized_train/**
+/docs/**
