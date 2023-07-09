@@ -3,4 +3,7 @@ urls.txt
 /data/resized_train/**
 /data/test/**
 /data/train/**
+/data/clean/**
+/data/clean_balanced/**
+/data/aptos2019-blindness-detection/**
 /docs/**
